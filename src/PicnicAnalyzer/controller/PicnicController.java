@@ -14,7 +14,7 @@ public class PicnicController {
 
     public void processPicnic() {
         try {
-            // Задание 1.md
+            // Задание 1
             int wordCount = model.countWords();
             System.out.println("Задание 1.md");
             System.out.println("Количество слов в файле: " + wordCount);
